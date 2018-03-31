@@ -1,0 +1,33 @@
+{
+  "hellomessage": "I'm ready for work ;)",
+
+  "levelManager": {
+    "backmessages": {
+        "newuser": "viens de débuter son chemin sur le serveur ! Nésitez par à l'aider. . . :grinning:",
+        "newuserpv": "Bienvenue, n'hésite pas à consulter nos règles sur notre site, moi c'est factory. Je suis le robot du serveur discord si tu veux consulter ton niveau fait : \" /level \" si tu à des questions poses lès directement à l'administrateur, sinon bonne continuation !! :grinning:",
+        "showlevelpv" : {
+            "start": "Salut",
+            "center": "ton niveau est,",
+            "end": ":grinning:"
+        },
+        "uplevel": {
+            "start": "viens de passer au niveau",
+            "center" : "depuis sa première visite sur le serveur le",
+            "end": "bravo !! :ok_hand: :grinning:"
+        }
+    },
+    "showTheLevelUp": true,
+    "showTheLevelUpWhen": 20
+  },
+  
+  "ENV" : {
+    "BOTID" : "454237542653259725",
+    "BOTTOKEN" : "F4d4f6dssqHHGBjhbjjJhhsd.df22Ddc.dkbfnd41fjhsxYHjiuy5_8Jghjk554",
+    "MYSQL" : {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "discord_bot_factory_database"
+    }
+  }
+}
