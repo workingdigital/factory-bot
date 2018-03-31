@@ -4,11 +4,13 @@ Inport the "sql_export.sql" in you MySQL database.
 
 
 Install :
+
 npm i --save discord.js
 
 npm i --save mysql
 
 npm i --save md5
+
 
 
 Finsh !! Just run the bot with NodeJS
